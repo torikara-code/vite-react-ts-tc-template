@@ -1,12 +1,12 @@
 # React + TypeScript + Vite + TailwindCSS Template
 
-このプロジェクトは [Vite React TypeScript テンプレート](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react) をベースに作成し、TailwindCSS を追加しました。
-
-Reactの勉強の過程の環境構築のついでに作りました。
-
-後からフロント側の環境作りやすいように備忘録の一環として残しておきます。
-
+このプロジェクトは [Vite React TypeScript テンプレート](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react) をベースに作成し、TailwindCSS を追加しました。  
+Reactの勉強の過程の環境構築のついでに作りました。  
+後からフロント側の環境作りやすいように備忘録の一環として残しておきます。  
 n番煎じだとは思いますが、誰かの役に立てば幸いです。
+
+【使用法】  
+pull→npm install
 
 ## 使用ライブラリとライセンス
 
