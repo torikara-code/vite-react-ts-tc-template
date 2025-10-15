@@ -1,8 +1,11 @@
 # React + TypeScript + Vite + TailWindCSS Template
 
 このプロジェクトは [Vite React TypeScript テンプレート](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react) をベースに作成し、TailwindCSS を追加しました。
+
 Reactの勉強の過程の環境構築のついでに作りました。
+
 後からフロント側の環境作りやすいように備忘録の一環として残しておきます。
+
 n番煎じだとは思いますが、誰かの役に立てば幸いです。
 
 ## 使用ライブラリとライセンス
@@ -22,6 +25,7 @@ You can freely use and modify these icons as long as you give proper credit.
 ### ライセンス (MIT) 環境テンプレート+アイコン素材
 
 This project’s code is licensed under the MIT License. See [LICENSE.md](./LICENSE.md) for details.
+
 Icons used in this project are located in `/src/assets/`
 
 - Vite React TypeScript テンプレート: MIT License
