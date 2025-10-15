@@ -6,7 +6,9 @@ React の勉強の過程の環境構築のついでに作成したものです�
 n 番煎じだとは思いますが、誰かの役に立てば幸いです。
 
 【使用法】  
-pull→npm install
+1.pull  
+2.npm install  
+3.docker-compose up --build
 
 ## 使用ライブラリとライセンス
 
