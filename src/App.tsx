@@ -3,6 +3,7 @@ import ReactLogo from "./components/Logos/ReactLogo";
 import TailwindCssLogo from "./components/Logos/TailwindCssLogo";
 import TsLogo from "./components/Logos/TsLogo";
 import ViteLogo from "./components/Logos/ViteLogo";
+import ImagesCredit from "./components/Credit/ImagesCredit";
 import "./index.css";
 
 function App() {
@@ -26,6 +27,7 @@ function App() {
       <p className="text-gray-500 pt-1 pb-1">
         Click on the Vite and React logos to learn more
       </p>
+      <ImagesCredit />
     </div>
   );
 }

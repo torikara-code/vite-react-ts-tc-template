@@ -10,23 +10,15 @@ n 番煎じだとは思いますが、誰かの役に立てば幸いです。
 2.npm install  
 3.docker-compose up --build
 
-### OSS ライセンス (MIT) 
+### OSS ライセンス (MIT)
+
 このプロジェクトには以下のオープンソースコンポーネントが含まれています。
 
-- [Vite](https://github.com/vitejs/vite) — MIT License  
-- [React](https://github.com/facebook/react) — MIT License  
+- [Vite](https://github.com/vitejs/vite) — MIT License
+- [React](https://github.com/facebook/react) — MIT License
 - [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss) — MIT License
 
 本プロジェクト自体は MIT ライセンスの下で公開されています。
-詳細については LICENSE.mdをご覧ください。
+詳細については LICENSE.md をご覧ください。
 
 ---
-
-### アイコン素材 ライセンス
-このプロジェクトで利用されているアイコンは以下のライセンスに基づいています。
-
-■`/src/assets/TailwindCSS.svg`  
-<a target="_blank" href="https://icons8.com/icon/CIAZz2CYc6Kc/tailwindcss">Tailwindcss</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
-
-■`/src/assets/TailwindCSS.svg`  
-<a target="_blank" href="https://icons8.com/icon/uJM6fQYqDaZK/typescript">TypeScript</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
