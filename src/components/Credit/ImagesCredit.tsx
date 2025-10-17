@@ -1,7 +1,7 @@
 const ImagesCredit: React.FC = () => {
   return (
     <>
-      <div className="text-xs inline-block text-center w-full mt-6">
+      <div className="text-xs inline-block text-center w-full mt-6 opacity-70">
         <a
           target="_blank"
           href="https://icons8.com/icon/uJM6fQYqDaZK/typescript"
