@@ -25,14 +25,8 @@ n 番煎じだとは思いますが、誰かの役に立てば幸いです。
 ### アイコン素材 ライセンス
 このプロジェクトで利用されているアイコンは以下のライセンスに基づいています。
 
-■ CC BY
-`/src/assets/TailwindCSS.svg`
-- Icon: [VSCode File & Folder Icons](https://icon-icons.com/ja/%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB-%E3%82%BF%E3%82%A4%E3%83%97-%E8%BF%BD%E3%81%84%E9%A2%A8/130128)
-- Author: Roberto Huertas
-- License: [CC Attribution](https://creativecommons.org/licenses/by/4.0/)
+■`/src/assets/TailwindCSS.svg`  
+<a target="_blank" href="https://icons8.com/icon/CIAZz2CYc6Kc/tailwindcss">Tailwindcss</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 
-You can freely use and modify these icons as long as you give proper credit.
-
-■ MIT
-`/src/assets/typescript.svg`
-Icon by Julien Monty / Devicon — used under free for commercial use license via icon-icons.com
+■`/src/assets/TailwindCSS.svg`  
+<a target="_blank" href="https://icons8.com/icon/uJM6fQYqDaZK/typescript">TypeScript</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
