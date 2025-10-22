@@ -9,9 +9,6 @@ COPY package.json package-lock.json ./
 #nodeモジュールのインストール
 RUN npm install
 
-RUN npm install -D tailwindcss@3.4.13 autoprefixer postcss
-RUN npx tailwindcss init -p
-
 COPY . .
 
 # コンテナがリッスンするポートを明示的に公開
